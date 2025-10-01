@@ -272,7 +272,7 @@ body {
 
 /* Footer */
 footer {
-  background-color: gray;
+  background-color: #00000046;
   text-align: center;
   padding: 1rem 0.3rem;
   margin-top: 3rem;
@@ -283,20 +283,20 @@ footer .socials {
 }
 
 footer .socials a {
-  color: #dcdcdc;
+  color: black;
   margin: 1rem;
 }
 
 footer .socials a:hover,
 footer .links a:hover {
-  color: black;
+  color: #413f42;
 }
 
 footer .links {
   margin-bottom: 1.4rem;
 }
 footer .links a {
-  color: #dcdcdc;
+  color: black;
   padding: 0.7rem 1rem;
 }
 
@@ -305,7 +305,7 @@ footer .credit {
 }
 
 footer .credit a {
-  color: var(--bg);
+  color: black;
   font-weight: 700;
 }
 /* Media Queries */
